@@ -10,15 +10,15 @@
                 <h2>OhMyDock 1.0</h2>
                 <p>Latest release</p>
             ]]></description>
-            <pubDate>Thu, 08 Jan 2026 00:06:21 +0900</pubDate>
-            <sparkle:version>36</sparkle:version>
+            <pubDate>Thu, 08 Jan 2026 01:38:46 +0900</pubDate>
+            <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure 
-                url="https://github.com/sseen/ohmydock/releases/download/v1.0.36/TTDock-1.0.dmg"
-                length="4023460"
+                url="https://github.com/sseen/ohmydock/releases/download/v1.0.37/TTDock-1.0.dmg"
+                length="4277918"
                 type="application/octet-stream"
-                sparkle:edSignature="iaw/oPaMxVBSNfMpf7Eg/GL5IAeX2OcGgPXm7nlXbY4RdBaaL/mwJRdE/9KGj7FZsQVtPmfZGk9rQXIVKEkqBg=="
+                sparkle:edSignature="IY6yEiFemKgrh7R2Xq+TqhRm2PSP2xJ5hYgup8FoH1IOirVCk0sfZmBT8xjhFnIM70VheWH5MaOjHJ8FHFrjAw=="
             />
         </item>
     </channel>
